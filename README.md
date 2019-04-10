@@ -27,7 +27,7 @@ Après il faut choisir n'importe quel nom pour la base de donnée dans l'interfa
 
 Après que la configuration d'Odo est terminée, il faut configurer le  password de gestion de la database ici:
 
-http://www.makerspace-lausanne.ch:8069/web/database/manager
+http://localhost:8069/web/database/manager
 
 
 ## Ma petite documentation sur le sujet ;-)

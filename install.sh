@@ -9,7 +9,8 @@ mkdir config
 mkdir addons
 cp odoo.conf config/
 cd addons
-wget https://apps.odoo.com/loempia/download/om_account_accountant/12.0.1.0.0/4x9rMIZVlNa6Ps0P6MdN94.zip
-unzip 4x9rMIZVlNa6Ps0P6MdN94.zip
+# source: https://apps.odoo.com/apps/modules/12.0/om_account_accountant/
+wget -O compta.zip https://apps.odoo.com/loempia/download/om_account_accountant/12.0.1.0.0/4x9rMIZVlNa6Ps0P6MdN94.zip?deps
+unzip compta.zip
 
 

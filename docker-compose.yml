@@ -1,7 +1,10 @@
 version: '2'
+
+#zf190410.0730
+
 services:
   web:
-    image: odoo:12.0
+    image: odoo:12
     depends_on:
       - db
     ports:
